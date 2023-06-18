@@ -12,9 +12,10 @@ function Description() {
                   <h2>S1 DIGITAL MARKETING</h2>
                </div> */}
                <div className='flex flex-col gap-y-5'>
-                  <h1 className='text-6xl'>
-                     A <span>marketing agency</span> for the{" "}
-                     <span>modern world.</span>
+                  <h1 className='text-5xl'>
+                     A <span className='text-indigo-400'>marketing agency</span>{" "}
+                     for the{" "}
+                     <span className='text-violet-600'>modern world.</span>
                   </h1>
                   <p className='text-lg'>
                      A straight-talking bunch of best Digital Marketing Based in
